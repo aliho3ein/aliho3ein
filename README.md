@@ -32,7 +32,7 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 ### My Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aliho3ein&theme=dark&background=000000)](https://git.io/streak-stats)&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliho3ein&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aliho3ein&theme=dark&background=000000)](https://git.io/streak-stats)&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliho3ein&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
  <img src="https://raw.githubusercontent.com/tondrejk/tondrejk/main/contributions.svg" width='100%' />
