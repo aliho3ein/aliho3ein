@@ -3,15 +3,7 @@
 I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Germany.
 
 ---
-### Social
- 
-[<img src="https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded" title='Stackoverflow' width="40" height="40"/>](https://stackoverflow.com/users/3748304/ali)
 
-[<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title='my Packages' width="40" height="40"/>](https://www.npmjs.com/~aliho3ein)
-
-[<img src="https://cdn.pixabay.com/photo/2022/03/15/06/15/code-7069550_1280.png" title='CSS Battle' width="35" style='margin-top:1px'/>](https://cssbattle.dev/player/aliho3ein)
- 
----
 
 ### Languages and Tools
 
@@ -35,9 +27,12 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
  <img src="https://raw.githubusercontent.com/tondrejk/tondrejk/main/contributions.svg" width='100%' />
 
 
+### Social
+ 
+[<img src="https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded" title='Stackoverflow' width="40" height="40"/>](https://stackoverflow.com/users/3748304/ali)
 
-- 👋 Hi, I’m @aliho3ein
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+[<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title='my Packages' width="40" height="40"/>](https://www.npmjs.com/~aliho3ein)
+
+[<img src="https://cdn.pixabay.com/photo/2022/03/15/06/15/code-7069550_1280.png" title='CSS Battle' width="35" style='margin-top:1px'/>](https://cssbattle.dev/player/aliho3ein)
+ 
+---
