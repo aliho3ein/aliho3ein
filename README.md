@@ -10,6 +10,10 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 [<img src="https://cdn.pixabay.com/photo/2022/03/15/06/15/code-7069550_1280.png" title='CSS Battle' width="35" style='margin-top:1px'/>](https://cssbattle.dev/player/aliho3ein)
 
+
+### My Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aliho3ein&theme=dark&background=000000)](https://git.io/streak-stats)&nbsp;&nbsp;&nbsp;
+
 ---
 ### Languages and Tools
 
@@ -26,8 +30,6 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 ---
 
-### My Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aliho3ein&theme=dark&background=000000)](https://git.io/streak-stats)&nbsp;&nbsp;&nbsp;
 
  <img src="https://raw.githubusercontent.com/tondrejk/tondrejk/main/contributions.svg" width='100%' />
 
