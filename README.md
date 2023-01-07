@@ -9,7 +9,8 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 [<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title='my Packages' width="40" height="40"/>](https://www.npmjs.com/~aliho3ein)
 
 [<img src="https://cdn.pixabay.com/photo/2022/03/15/06/15/code-7069550_1280.png" title='CSS Battle' width="35" style='margin-top:1px'/>](https://cssbattle.dev/player/aliho3ein)
-</div><div>
+</div>
+<div>
 ### My Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aliho3ein&theme=dark&background=000000)](https://git.io/streak-stats)&nbsp;&nbsp;&nbsp;
 </div>
