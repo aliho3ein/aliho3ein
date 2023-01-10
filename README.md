@@ -8,10 +8,10 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 <p align="center"> 
 <a href="https://www.npmjs.com/~aliho3ein"><img src="https://authy.com/wp-content/uploads/npm-logo.png" title='my Packages' width="40" height="40"/> </a> 
  
+ <a href="https://stackoverflow.com/users/3748304/ali"><img src="https://www.golem.de/2004/147393-227385-227382_rc.jpg" title='Stackoverflow' width="40" height="40"/> </a> 
  
- 
- [<img src="https://www.golem.de/2004/147393-227385-227382_rc.jpg" title='Stackoverflow' width="40" height="40"/>](https://stackoverflow.com/users/3748304/ali)&nbsp;
- [<img src="https://pbs.twimg.com/profile_images/1114446136302084096/BIu19jPP_400x400.png" title='CSS Battle' width="40" style='margin-top:1px'/>](https://cssbattle.dev/player/aliho3ein) </p>
+ <a href="https://cssbattle.dev/player/aliho3ein"><img src="https://pbs.twimg.com/profile_images/1114446136302084096/BIu19jPP_400x400.png" title='CSS Battle' width="40" height="40"/> </a> 
+ </p>
 
 ### My Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aliho3ein&theme=dark&background=000000)](https://git.io/streak-stats)&nbsp;&nbsp;&nbsp;
