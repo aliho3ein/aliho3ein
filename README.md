@@ -10,9 +10,9 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
  </p>
 
 ### My Stats
-<div align="center"> 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aliho3ein&theme=dark&background=000000)](https://git.io/streak-stats)&nbsp;&nbsp;&nbsp;
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aliho3ein&theme=dark&background=000000)](https://git.io/streak-stats)&nbsp;&nbsp;&nbsp;
+<div align="center"> 
 ---
 ### Languages and Tools
 
