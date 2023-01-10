@@ -13,8 +13,8 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aliho3ein&theme=dark&background=000000)](https://git.io/streak-stats)&nbsp;&nbsp;&nbsp;
 <div align="center"> 
----
-### Languages and Tools
+
+ Languages and Tools
 
  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
