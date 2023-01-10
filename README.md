@@ -4,10 +4,8 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 
 
-
+### My Social platform
 <p align="center"> 
-My Social platform
-
  <a href="https://www.npmjs.com/~aliho3ein"><img src="https://authy.com/wp-content/uploads/npm-logo.png" title='my Packages' width="40" height="40"/></a>  <a href="https://stackoverflow.com/users/3748304/ali"><img src="https://www.golem.de/2004/147393-227385-227382_rc.jpg" title='Stackoverflow' width="40" height="40"/></a>  <a href="https://cssbattle.dev/player/aliho3ein"><img src="https://pbs.twimg.com/profile_images/1114446136302084096/BIu19jPP_400x400.png" title='CSS Battle' width="40" height="40"/></a> 
  </p>
 
