@@ -1,6 +1,6 @@
 
 
-I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Germany.
+Leidenschaftlicher MERN Full-Stack-Entwickler  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> mit Erfahrung in der Entwicklung von Webanwendungen mit MongoDB, Express, React und Node.js. Erfahren in der Front-End-Entwicklung mit React und Redux sowie in der Back-End-Entwicklung mit Node.js und Express. Kompetent in der Gestaltung und Verwaltung von Datenbanken mit MongoDB . Strebt immer danach, neue Technologien und bewährte Methoden zu erlernen, um qualitativ hochwertige und skalierbare Lösungen zu liefern. Lass uns gemeinsam etwas Großartiges aufbauen!
 
 
 
