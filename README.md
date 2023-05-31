@@ -49,5 +49,6 @@ Passionate MERN full-stack developer with experience in developing web applicati
 <a href="https://github.com/aliho3ein" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliho3ein&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me
-
+<div align="center">
 <a href="https://www.buymeacoffee.com/aliho3ein"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+</div>
