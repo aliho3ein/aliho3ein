@@ -7,7 +7,7 @@ Full stack MERN web developer
 Passionate MERN full-stack developer with experience in developing web applications with MongoDB, Express, React and Node.js. Experienced in front-end development with React and Redux and back-end development with Node.js and Express. Proficient in designing and managing databases using MongoDB. Always strives to learn new technologies and best practices to deliver high quality and scalable solutions. Let's build something great together!
 
 * 🌍  I'm based in Wuppertal
-* ✉️  You can contact me at [info@aliho3ein.me](mailto:info@aliho3ein.me)
+* ✉️  You can contact me at [aliho3ein.de@gmail.com](mailto:aliho3ein.de@gmail.com)
 * 🧠  I'm learning Teilwind , React Native
 * 🤝  I'm open to collaborating on intersting projects
 
