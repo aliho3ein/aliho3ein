@@ -8,7 +8,7 @@ Passionate MERN full-stack developer with experience in developing web applicati
 
 * 🌍  I'm based in Wuppertal
 * ✉️  You can contact me at [aliho3ein.de@gmail.com](mailto:aliho3ein.de@gmail.com)
-* 🧠  I'm learning Tailwind , React Native
+* 🧠  I'm learning Tailwind , Angular
 * 🤝  I'm open to collaborating on intersting projects
 
 ### Skills
